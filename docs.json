@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Channels",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "channels/markdown",
+              "channels/code",
+              "channels/images",
+              "channels/settings",
+              "channels/navigation",
+              "channels/reusable-snippets"
             ]
           }
         ]
